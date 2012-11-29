@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[while (${1:true}) {
+    ${2:// I'll loop it...}
+};]]></content>
+    <tabTrigger>while</tabTrigger>
+    <scope>source.js</scope>
+    <description>while (…) {…} (Native While-Loop)</description>
+</snippet>
